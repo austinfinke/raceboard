@@ -1,0 +1,24 @@
+{
+  "name": "raceboard",
+  "version": "1.0.0",
+  "description": "f1 race results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinfinke/raceboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinfinke/raceboard/issues"
+  },
+  "homepage": "https://github.com/austinfinke/raceboard#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "moment": "^2.26.0"
+  }
+}
